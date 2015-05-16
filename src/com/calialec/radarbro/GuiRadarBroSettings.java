@@ -81,7 +81,7 @@ import java.util.List;
 /* 73:   */   
 /* 74:   */   public void drawScreen(int i, int j, float f)
 /* 75:   */   {
-/* 76:79 */     drawDefaultBackground();
+/* 76:79 */     this.drawDefaultBackground();
 /* 77:80 */     drawCenteredString(this.fontRendererObj, "RadarBro Settings", this.width / 2, this.height / 4 - 60 + 20, 16777215);
 /* 78:81 */     super.drawScreen(i, j, f);
 /* 79:   */   }
