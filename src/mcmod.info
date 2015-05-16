@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mod_RadarBro",
+  "name": "RadarBro",
+  "description": "RadarBro gives you comfort by letting you know where nearby enemies and mobs are.",
+  "version": "v1.9.9.9.9.9.9",
+  "mcversion": "1.8",
+  "url": "http://radarbro.calialec.com/",
+  "updateUrl": "",
+  "authorList": ["CaliAlec", "SpawnerCo"],
+  "credits": "Updated to 1.8 by SpawnerCo",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
